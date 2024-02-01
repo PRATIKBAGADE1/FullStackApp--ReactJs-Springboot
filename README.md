@@ -12,10 +12,7 @@ Implementation of Full Stack Web app Development -(Which simply add the data int
 - Material UI
 - POSTMAN
 
-
-
-
 ## Working
 - This Project Shows the Demonstration of how the spring is connected to Mysqli Framework.
-- We used Hibernrt and the Java persistance Api for the database connectivity with MySql databaseS
+- We used Hibernet and the Java persistance Api for the database connectivity with MySql databases.
 
